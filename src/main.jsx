@@ -20,13 +20,9 @@ const Main = () => {
       <Box boxColor="blue" text="text2"/>
       <Box boxColor="green" text="text3"/>
       <Box boxColor="pink" text="text4"/>
-      <Circle circleColor="red" />
-      <Circle circleColor="orange" />
-      <Circle circleColor="yellow" />
-      <Circle circleColor="green" />
-      <Circle circleColor="blue" />
-      <Circle circleColor="gray" />
-      <Circle circleColor="purple" />
+      {circleColorArr.map((color) => (
+        <Circle circleColor={color} />
+      ))}
       <br></br>
       <Card url="GitHub-Mark.png" title="1번" content="안녕하세요"
       buttonColor1="blue" buttonColor2="skyblue"/>
