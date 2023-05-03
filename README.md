@@ -41,7 +41,7 @@ const circleColorArr = ["pink","red","black","gray","green","blue","orange"];
 
 # 결과물 
 이 결과물처럼 나왔다면 1,2,3번은 완료입니다.
-<img width="883" alt="image" src="https://user-images.githubusercontent.com/100525337/229531846-67ef1e0b-4acb-473a-945d-cd344a9266b5.png">
+<img width="470" alt="image" src="https://user-images.githubusercontent.com/111687549/235972191-b8e0cde6-2e2e-4e7a-a38b-78579e2aa715.png">
 
 
 # 4번 마지막 문제!! 
@@ -60,5 +60,6 @@ const circleColorArr = ["pink","red","black","gray","green","blue","orange"];
 6. 서로 다른 props를 입력받은 미디어 카드를 최소 5개 이상 만듭니다.
 
 
-<img width="579" alt="image" src="https://user-images.githubusercontent.com/100525337/235416326-bb6c6c71-1e17-4272-a78c-761d373cf0b9.png">
+<img width="857" alt="image" src="https://user-images.githubusercontent.com/111687549/235974748-5b807f3c-b1a9-4789-9840-391640a451da.png">
+
 
